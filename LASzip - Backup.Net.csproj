@@ -22,13 +22,11 @@
     <AssemblyTitle>LASzip.Net</AssemblyTitle>
     <Description>Classes for reading and writing of LAS/LAZ files. Ported from LASzip.</Description>
     <Product>LASzip.Net</Product>
-    <Copyright>Copyright of C# port © 2014-2019 by Shinta &lt;shintadono@googlemail.com&gt;
-Copyright © 2007-2018, martin isenburg &lt;martin.isenburg@rapidlasso.com&gt;, rapidlasso - tools to catch reality &lt;http:\rapidlasso.com&gt;</Copyright>
+    <Copyright>Copyright of C# port © 2014-2019 by Shinta &lt;shintadono%40googlemail.com&gt;
+Copyright © 2007-2018, martin isenburg &lt;martin.isenburg%40rapidlasso.com&gt;, rapidlasso - tools to catch reality &lt;http:\rapidlasso.com&gt;</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
     <AssemblyVersion>3.2.9.0</AssemblyVersion>
     <FileVersion>3.2.9.0</FileVersion>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Title>LASzip.Net</Title>
-    <Version>2.2.2</Version>
   </PropertyGroup>
 </Project>
